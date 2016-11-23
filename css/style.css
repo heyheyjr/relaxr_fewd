@@ -1,0 +1,138 @@
+body{
+background: #f0efef;
+font-family: 'Open Sans', sans-serif;
+}
+
+button{
+border-radius: 9px;
+font-family: 'Open Sans';
+font-size: 20px;
+display: block;
+margin: 0 auto;
+width: 300px;
+}
+
+#first {
+	background-image: url("../images/header_bg.jpg");
+	height: 700px;
+	width: auto;
+}
+
+div#first > h1{
+	font-size: 60px;
+	padding: 20px 60px;
+	color: white;
+	font-weight: super bold;
+}
+
+div#first > h2{
+	font-size: 40px;
+	margin: 0, auto;
+	color: white;
+	text-align: center;
+	margin-top: 110px;
+}
+
+div#first > button{
+	padding: 20px;
+	background:#f9e42e;
+	color: #033048;
+	margin-top: 70px;
+}
+
+div#second {
+	margin: 30px 60px;
+	padding:10px;
+}
+
+div#second > h3{
+	padding: 10px;
+	color: #606161;
+	font-size: 25px;
+	font-weight:bold;
+}
+
+div#second > p, ul{
+	padding: 10px;
+	color:#606161;
+}
+
+div#second > ul{
+	padding: 10px;
+	list-style-type: disc;
+	margin-left: 40px;
+	margin-bottom: 30px;
+}
+
+#third {
+	background-image: url("../images/testimonial_bg.jpg");
+	height: 210px;
+	width: auto;
+	color: white;
+	text-align:center;
+	display:inline-block;
+	}
+
+div#third > p {
+	font-style: italic;
+	font-size: 20px;
+	margin-top:40px;
+	margin-left:270px;
+	margin-right: 270px;
+	padding:10px;
+}
+
+#Amanda {
+	font-size: 30px;
+	font-weight: bold;
+
+}
+
+#fourth{
+	background:#f9e42e;
+	height: 100px;
+	width: auto;
+	padding-top: 30px;
+}
+
+div#fourth > button {
+	padding: 20px;
+	background:#033048;
+	color: white;
+}
+
+footer {
+	background: #121212;
+	text-align: center;
+}
+
+footer > h1 {
+	font-size: 60px;
+	color:#f9e42e;
+	font-style: bold;
+	padding: 15px;
+}
+
+footer > ul{
+	color:white;
+	margin: 0 auto;
+	padding: 30px;
+	display: inline-block;
+}
+
+footer > p {
+	font-size: 10px;
+	color: white;
+	padding-bottom: 30px;
+}
+
+#socialmedia {
+	padding: 10px;
+	display: inline-block;
+}
+
+
+
+
+
+
